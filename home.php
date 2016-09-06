@@ -7,7 +7,7 @@
 
          if ($coba == "shareilmu") {
                 echo "SHARE ILMU itu sangat bermanfaat";
-                echo "SHARE ILMU itu sangat bermanfaats";
+                echo "SHARE ILMU itu sangat bermanfaat sekali";
           }
          ?>
     </body>
