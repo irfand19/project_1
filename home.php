@@ -3,7 +3,7 @@
 <title> coba if </title>
    <body>
     <?php
-         $coba ="shareilmu";
+         $coba ="share";
 
          if ($coba == "shareilmu") {
                 echo "SHARE ILMU itu sangat bermanfaat";
