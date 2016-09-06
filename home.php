@@ -3,7 +3,6 @@
 <title> coba if </title>
    <body>
     <?php
-         $coba ="shareilmusakti";
          $coba ="oneone";
 
          if ($coba == "shareilmu") {
